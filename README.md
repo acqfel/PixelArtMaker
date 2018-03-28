@@ -1,11 +1,17 @@
 # Pixel Art Maker Project
 
-## Table of Contents
+## How it was created and libraries used
 
-* [Instructions](#instructions)
+The game was created using the following languages: HTML, CSS and Javascript.
 
-## Instructions
+### Library
+* jQuery v3.2.1
 
-Select the height and width of the Grid.
+## How to see the Pixel Art Maker?
+* Click [**here**](https://acqfel.github.io/PixelArtMaker/) and will open the project site.
 
-Choose the color you want to paint each cell and make your drawing.
+### Instructions
+
+* Select the height and width of the Grid and click in the "Create" button.
+
+* Choose the color you want to paint each cell and make your drawing.
